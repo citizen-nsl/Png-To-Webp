@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "archiver": "^7.0.1",
+    "node-unrar": "^0.1.6",
+    "node-zip": "^1.1.1",
+    "sharp": "^0.33.5",
+    "unzipper": "^0.12.3"
+  }
+}
